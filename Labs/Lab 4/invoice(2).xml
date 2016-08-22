@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<invoice	xmlns="http://www.dit.ie"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:schemaLocation="http://www.dit.ie invoice.xsd">
+			
+	<invoice_number>1</invoice_number>
+	<invoice_date>2011-02-17</invoice_date>
+	<invoice_total>15.00</invoice_total>
+	<issued_by>Mark</issued_by>
+	<bill_to>
+		<name>John</name>
+		<address>
+			<number>1</number>
+			<street>Main St</street>
+			<city>Dundalk</city>
+		</address>
+	</bill_to>
+	<item>
+		<item_name>Jacket</item_name>
+		<price>10.00</price>
+		<quantity>3</quantity>
+	</item>
+	<payment_information>No additional info</payment_information>			
+</invoice>

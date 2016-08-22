@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="note.xsl"?>
+
+<notes>
+<note>
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekend!</body>
+</note> 
+<note>
+	<to>Me</to>
+	<from>You</from>
+	<heading>Heading</heading>
+	<body>Message</body>
+</note> 
+</notes>

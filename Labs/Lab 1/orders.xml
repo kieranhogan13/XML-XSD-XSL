@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Orders>
+	<Order id='1'>
+		<Handler>Mary Mary Quite Contrary</Handler>
+		<ShipTo>
+			<Name>Jackie Chan</Name>
+			<Address>2 Kung Po Street</Address>
+			<City>Hong Kong</City>
+			<Country>China</Country>
+		</ShipTo>
+		<Item id='1'>
+			<Title>Bag of cocaine</Title>
+			<Quantity>200</Quantity>
+			<Price>50,000.00</Price>
+		</Item>
+	</Order>
+
+	<Order id='2'>
+		<Handler>Seymore Butts</Handler>
+		<ShipTo>
+			<Name>Obama</Name>
+			<Address>White House</Address>
+			<City>Washington</City>
+			<Country>USA</Country>
+		</ShipTo>
+		<Item id='2'>
+			<Title>Hot Wheels</Title>
+			<Quantity>5</Quantity>
+			<Price>20.00</Price>
+		</Item>
+	</Order>
+
+</Orders>

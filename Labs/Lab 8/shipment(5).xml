@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="shipment1.xsl"?>
+
+<shipment  xmlns="http://www.dit.ie"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:schemaLocation="http://www.dit.ie shipment.xsd"  shipmentid="123">
+			
+	<consignor>
+		<name>DVDsRUs</name>
+		<address_line_1>Unit 56</address_line_1>
+		<address_line_2>Ballyclockin Buiness Park</address_line_2>
+		<address_line_3>Dublin</address_line_3>
+		<address_line_4>Ireland</address_line_4>
+	</consignor>
+	<consignee>
+		<name>Ola Nordmann</name>
+		<address_line_1>Langgt 23</address_line_1>
+		<address_line_2>4000 Stavanger</address_line_2>
+		<address_line_3>Norway</address_line_3>
+	</consignee>
+	<details>
+	  <total_weight>300</total_weight>
+	  <total_weight_uom>Grams</total_weight_uom>
+	</details>  
+	<item>
+		<title>Taxi Driver</title>
+		<id>001</id>
+		<note>Special Edition</note>
+		<quantity>1</quantity>
+		<price>2.50</price>
+	</item>
+	<item>
+		<title>Harry Potter and The Deathly Hallows Part I</title>
+		<id>002</id>
+		<quantity>2</quantity>
+		<price>15.00</price>
+	</item>
+		<item>
+		<title>Night of the Museum 2</title>
+		<id>003</id>
+		<quantity>3</quantity>
+		<price>12.00</price>
+	</item>
+</shipment>

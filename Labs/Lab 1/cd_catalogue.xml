@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Catalogue>
+<CD id='1'>
+	<Title>Drones</Title>
+	<Artist>Muse</Artist>
+	<Company>Sony Music</Company>
+	<Price>10.00</Price>
+	<Year>2015</Year>
+</CD>
+
+<CD id='2'>
+	<Title>Saint Cecilia</Title>
+	<Artist>Foo Fighters</Artist>
+	<Company>No Label</Company>
+	<Price>0.00</Price>
+	<Year>2015</Year>
+</CD>
+</Catalogue>
